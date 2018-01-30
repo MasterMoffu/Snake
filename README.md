@@ -1,4 +1,4 @@
-# Snake
+# Snek
 
 Snake game in Javascript.
 WIP
