@@ -1,6 +1,6 @@
-# Snek
+# Snake
 
-Snake game in Javascript.
+da snekk gaem in javascript.
 WIP
 
 i suck at programming. don;t cyberbully me ill tell my mom
